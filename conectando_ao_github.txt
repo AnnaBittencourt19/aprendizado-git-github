@@ -1,0 +1,4 @@
+Criando um repositorio no github:
+Na parte de adicionar o github dá os comandos necessários para adicionar as coisas no repositorio.
+Git push origin master: "empurra" para a origin(envia para o github)
+Git pull origin master: Baixa as atualizações do repositoio feitas no github
