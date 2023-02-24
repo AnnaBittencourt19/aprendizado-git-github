@@ -1,0 +1,17 @@
+Os principais comandos do git são:
+Git init: Cria um repositório git
+Git status: Ver o status do repositório (se tem alguma coisa pendente)
+Git add nome_arquivo: Adiciona na área provisória, etapa antes de commitar
+Git commit -m 'O que foi feito': Cria uma commit
+Git log: Mostra os commits que aconteceram
+Git log --pretty=oneline: Apenas as informações essenciais da commit (O que foi feito)
+Git log --pretty=oneline -1: Mostra a última commit
+Git log --stat: Mostra o status também (modificações e tals)
+Git diff: Mostra as modificações
+Git diff nome_arquivo: Mostra as modificações de um determinado arquivo
+Git diff --name-only: Mostra apenas o nome dos arquivos que foram modificados
+Git add . :Adiciona todos os pendentes na área provisória 
+Git commit -amend: Altera o que foi feito e adiciona as modificaões na última commit salva. Serve pra deixar o histórico mais organizado
+Git checkout -nome_do_arquivo : Volta o aqruivo para a versão do commit
+Git reset HEAD nome_arquivo: Para tirar do stage
+
