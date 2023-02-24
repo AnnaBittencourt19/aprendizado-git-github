@@ -1,0 +1,1 @@
+Para instalar o git apenas fiz o download no site (uso windows) e para configurar usei os seguintes comandos: git config --global user.name "nome de usuario" e git config --global user.email "email@email.com"
