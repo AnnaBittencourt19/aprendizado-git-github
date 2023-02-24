@@ -1,0 +1,9 @@
+As branchs são os "ramos" de um projeto. Servem para desenvolver features isoladas.
+Como utilizar branchs?
+Git branch: Mostra as branchs que tem no projeto
+Git branch nome_branch: Cria uma branch
+Git checkout nome_branch: Muda de branch
+Git branch -d nome_branch: Deleta a branch em questão (se tiver conteúdo usa -D)
+Git checkout -b nome_branch: Cria a branch e já vai pra dentro dela
+Git merge nome_branch: Passa a branch para a master
+
