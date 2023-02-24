@@ -1,0 +1,1 @@
+O git e github são ferramentas que auxiliam programadores em diversos âmbitos, no git por exemplo podemos desenvolver projetos colaborativos com facilidade e no github podemos compartilhar esses projetos
